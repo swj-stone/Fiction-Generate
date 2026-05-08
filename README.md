@@ -1,2 +1,24 @@
-# Fiction-Generate
-It's a skill especially designed for fiction generation
+<div align="center">
+
+# Childhood.skill
+
+
+
+
+
+<br>
+
+
+
+
+</div>
+
+---
+
+## 效果示例
+
+```
+用户      ❯ 
+
+
+```
